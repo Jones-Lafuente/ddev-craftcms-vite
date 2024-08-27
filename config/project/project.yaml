@@ -1,4 +1,4 @@
-dateModified: 1724677942
+dateModified: 1724684236
 email:
   fromEmail: admin@example.com
   fromName: Testsite
@@ -45,9 +45,10 @@ plugins:
 system:
   edition: pro
   live: true
-  name: Testsite
+  name: 'Brian | Craft CMS 5'
+  retryDuration: null
   schemaVersion: 5.3.0.2
-  timeZone: America/Los_Angeles
+  timeZone: Europe/London
 users:
   allowPublicRegistration: false
   defaultGroup: null
