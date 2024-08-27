@@ -33,7 +33,7 @@ ddev composer install && ddev npm install
 ddev craft install/craft \
   --username="admin" \
   --email="admin@example.com" \
-  --password="password123" \
+  # --password="password123" \
   --site-name="Testsite" \
   --language="en" \
   --site-url='$DDEV_PRIMARY_URL'
