@@ -1,4 +1,4 @@
-dateModified: 1724684236
+dateModified: 1724741996
 email:
   fromEmail: admin@example.com
   fromName: Testsite
@@ -15,6 +15,7 @@ meta:
   __names__:
     35a88997-77aa-4fba-b401-3c6384b6b83a: Testsite # Testsite
     b150892d-9f7d-4435-84f9-31593808faed: Testsite # Testsite
+    bd8ee29a-f390-46f6-ab94-34394eaa484a: 'Public Schema' # Public Schema
     c7bd43d5-cda2-4734-b0af-e498d079eec2: Simple # Simple
     c547951e-4ab1-4e0d-9faf-22a2eceabeef: Assets # Assets
 plugins:
